@@ -1,4 +1,36 @@
-<h1 align="left">Hi 👋, I'm NIMENDRA</h1>
+<h2 align="center">
+    Hi There :wave:, I'm NIMENDRA.
+</h2>
+<h4 align="center">
+I’m a Tech Enthusiast & Software Engineering Student!
+</h4>
 
-“Talk is cheap. Show me the code.”
-― Linus Torvalds
+---
+
+- 🌱 I’m currently learning **BSc (Hons) in Information Technology** 
+- 💬 Ask me about: Linux, Programming
+- :globe_with_meridians: Website: [nmdra.github.io](https://nmdra.github.io/)
+- 📫 How to reach me: nimendraonline@gmail.com
+- 😄 Pronouns: he/him
+
+---
+- <img height="16" width="16" src="https://cdn.simpleicons.org/blogger" /> My Blog: [nmdra.github.io/blog](https://nmdra.github.io/blog/)
+- <img height="16" width="16" src="https://cdn.simpleicons.org/twitter" /> Twitter: [@nimendra_](https://twitter.com/nimendra_)
+- <img height="16" width="16" src="https://cdn.simpleicons.org/linkedin" /> LinkedIn: [in/nimendra](https://www.linkedin.com/in/nimendra/)
+---
+
+<p align="center">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/manjaro" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/kde" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/neovim" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/go" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
+</p>
+
+
+
