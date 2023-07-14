@@ -2,7 +2,7 @@
     Hi There :wave:, I'm NIMENDRA.
 </h2>
 <h4 align="center">
-I’m a Tech Enthusiast & Software Engineering Student!
+I’m a Tech Enthusiast & Software Engineering Undergraduate!
 </h4>
 
 ---
