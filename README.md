@@ -20,16 +20,19 @@ I’m a Tech Enthusiast & Software Engineering Undergraduate!
 ---
 
 <p align="center">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/manjaro" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/kde" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/neovim" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/go" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/manjaro" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/kde" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/neovim" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/go" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
 </p>
 
 
