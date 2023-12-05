@@ -34,7 +34,6 @@ Tech Enthusiast & Software Engineering Undergraduate!
     <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/neovim" />
 </p>
 
 
