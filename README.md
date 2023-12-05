@@ -9,7 +9,7 @@ Tech Enthusiast & Software Engineering Undergraduate!
 
 - 🌱 I’m currently learning **Javascript, Java & C++** 
 - 💬 Ask me about: Linux, Programming
-- :globe_with_meridians: Website: [nmdra.github.io](https://nmdra.github.io/)
+- 🌐 Website: [nmdra.github.io](https://nmdra.github.io/)
 - 📫 How to reach me: nimendraonline@gmail.com
 - 😄 Pronouns: he/him
 
