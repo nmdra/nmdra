@@ -2,7 +2,7 @@
     Hi There :wave:, I'm NIMENDRA.
 </h2>
 <h4 align="center">
-I’m a Tech Enthusiast & Software Engineering Undergraduate!
+Tech Enthusiast & Software Engineering Undergraduate!
 </h4>
 
 ---
@@ -24,6 +24,7 @@ I’m a Tech Enthusiast & Software Engineering Undergraduate!
     <img height="32" width="32" src="https://cdn.simpleicons.org/manjaro" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/kde" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/neovim" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
@@ -33,6 +34,7 @@ I’m a Tech Enthusiast & Software Engineering Undergraduate!
     <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/neovim" />
 </p>
 
 
