@@ -11,7 +11,6 @@ Tech Enthusiast & Software Engineering Undergraduate!
 - 💬 Ask me about: Linux, Programming
 - 🌐 Website: [nmdra.github.io](https://nmdra.github.io/)
 - 📫 How to reach me: nimendraonline@gmail.com
-- 😄 Pronouns: he/him
 
 ---
 - <img height="16" width="16" src="https://cdn.simpleicons.org/blogger" /> My Blog: [nmdra.github.io/blog](https://nmdra.github.io/blog/)
