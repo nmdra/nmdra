@@ -19,21 +19,23 @@ Tech Enthusiast & Software Engineering Undergraduate!
 ---
 
 <p align="center">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/manjaro" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/kde" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/neovim" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/go" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/postman" />
+
+<a href="https://www.linux.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/linux" /></a>
+<a href="https://manjaro.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/manjaro" /></a>
+<a href="https://kde.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/kde" /></a>
+<a href="https://neovim.io/"><img height="32" width="32" src="https://cdn.simpleicons.org/neovim" /></a>
+<a href="https://www.jetbrains.com/idea/"><img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea" /></a>
+<a href="https://git-scm.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/git" /></a>
+<a href="https://www.cplusplus.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" /></a>
+<a href="https://www.iso.org/standard/74528.html"><img height="32" width="32" src="https://cdn.simpleicons.org/c" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /></a>
+<a href="https://golang.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/go" /></a>
+<a href="https://www.gnu.org/software/bash/"><img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" /></a>
+<a href="https://www.docker.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/docker" /></a>
+<a href="https://www.mysql.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/mysql" /></a>
+<a href="https://www.php.net/"><img height="32" width="32" src="https://cdn.simpleicons.org/php" /></a>
+<a href="https://www.postman.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/postman" /></a>
+
 </p>
 
 
