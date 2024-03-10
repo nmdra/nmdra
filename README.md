@@ -7,7 +7,7 @@ Tech Enthusiast & Software Engineering Undergraduate!
 
 ---
 
-- 🌱 I’m currently learning **Javascript, Java & C++** 
+- 🌱 I’m currently learning **Javascript, Java & Go** 
 - 💬 Ask me about: Linux, Programming
 - 🌐 Website: [nmdra.github.io](https://nmdra.github.io/)
 - 📫 How to reach me: nimendraonline@gmail.com
@@ -33,6 +33,7 @@ Tech Enthusiast & Software Engineering Undergraduate!
     <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/postman" />
 </p>
 
 
