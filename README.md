@@ -14,7 +14,7 @@ Tech Enthusiast & Software Engineering Undergraduate!
 
 ---
 - <img height="16" width="16" src="https://cdn.simpleicons.org/blogger" /> My Blog: [nmdra.github.io/blog](https://nmdra.github.io/blog/)
-- <img height="16" width="16" src="https://cdn.simpleicons.org/twitter" /> Twitter: [@nimendra_](https://twitter.com/nimendra_)
+- <img height="16" width="16" src="https://cdn.simpleicons.org/x" /> Twitter: [@nimendra_](https://twitter.com/nimendra_)
 - <img height="16" width="16" src="https://cdn.simpleicons.org/linkedin" /> LinkedIn: [in/nimendra](https://www.linkedin.com/in/nimendra/)
 ---
 
