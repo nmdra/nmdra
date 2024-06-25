@@ -36,6 +36,12 @@ Tech Enthusiast & Software Engineering Undergraduate!
     <a href="https://www.postman.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/postman" /></a>
 </div>
 
+---
+
+<div align="center">
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6452635eb60f0a3ce2fcd108?variant=dark&roadmaps=backend%2Cgolang%2Cdevops%2Cjavascript" alt="roadmap.sh"/></a>
+</div>
+
 
 
 
