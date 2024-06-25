@@ -39,7 +39,7 @@ Tech Enthusiast & Software Engineering Undergraduate!
 ---
 
 <div align="center">
-    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6452635eb60f0a3ce2fcd108?variant=dark" alt="roadmap.sh"/></a>
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6452635eb60f0a3ce2fcd108?variant=dark" alt="https://roadmap.sh/u/nimendra"/></a>
 </div>
 
 
