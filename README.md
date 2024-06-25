@@ -7,7 +7,7 @@ Tech Enthusiast & Software Engineering Undergraduate!
 
 ---
 
-- 🌱 I’m currently learning **Javascript, Java & Go** 
+- 🌱 I’m currently learning **MERN, Java & Go** 
 - 💬 Ask me about: Linux, Programming
 - 🌐 Website: [nmdra.github.io](https://nmdra.github.io/)
 - 📫 How to reach me: nimendraonline@gmail.com
@@ -34,12 +34,18 @@ Tech Enthusiast & Software Engineering Undergraduate!
     <a href="https://www.mysql.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/mysql" /></a>
     <a href="https://www.php.net/"><img height="32" width="32" src="https://cdn.simpleicons.org/php" /></a>
     <a href="https://www.postman.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/postman" /></a>
+    <a href="https://www.react.dev/"><img height="32" width="32" src="https://cdn.simpleicons.org/react" /></a> 
+    <a href="https://nodejs.org/en/"><img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" /></a>
+    <a href="https://expressjs.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/express" /></a>
+    <a href="https://www.npmjs.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/npm" /></a>
+    <a href="https://tailwindcss.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" /></a>
+    <a href="https://openjdk.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/openjdk" /></a>
 </div>
 
 ---
 
 <div align="center">
-    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6452635eb60f0a3ce2fcd108?variant=dark" alt="https://roadmap.sh/u/nimendra"/></a>
+    <a href="https://roadmap.sh/u/nimendra"><img src="https://roadmap.sh/card/wide/6452635eb60f0a3ce2fcd108?variant=dark" alt="https://roadmap.sh"/></a>
 </div>
 
 
