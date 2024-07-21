@@ -7,8 +7,8 @@ Tech Enthusiast & Software Engineering Undergraduate!
 
 ---
 
-- 🌱 I’m currently learning **MERN, Java & Go** 
-- 💬 Ask me about: Linux, Programming
+- 🌱 I’m currently learning **MERN, Java, Go & DevOps** 
+- 💬 Ask me about: Linux, Programming, Docker, Git
 - 🌐 Website: [nmdra.github.io](https://nmdra.github.io/)
 - 📫 How to reach me: nimendraonline@gmail.com
 
