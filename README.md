@@ -9,11 +9,11 @@ Tech Enthusiast & Software Engineering Undergraduate!
 
 - 🌱 I’m currently learning **MERN, Java, Go & DevOps** 
 - 💬 Ask me about: Linux, Programming, Docker, Git
-- 🌐 Website: [nmdra.github.io](https://nmdra.github.io/)
+- 🌐 Website: [blog.nimendra.xyz](https://blog.nimendra.xyz/)
 - 📫 How to reach me: nimendraonline@gmail.com
 
 ---
-- <img height="16" width="16" src="https://cdn.simpleicons.org/blogger" /> My Blog: [nmdra.github.io/blog](https://nmdra.github.io/blog/)
+- <img height="16" width="16" src="https://cdn.simpleicons.org/blogger" /> My Blog: [blog.nimendra.xyz](https://blog.nimendra.xyz/blog)
 - <img height="16" width="16" src="https://cdn.simpleicons.org/x" /> Twitter: [@nimendra_](https://twitter.com/nimendra_)
 - <img height="16" width="16" src="https://cdn.simpleicons.org/linkedin" /> LinkedIn: [in/nimendra](https://www.linkedin.com/in/nimendra/)
 ---
