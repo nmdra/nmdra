@@ -7,9 +7,9 @@ Tech Enthusiast & Software Engineering Undergraduate!
 
 ---
 
-- 🌱 I’m currently learning **Go, AWS & DevOps** 
+- 🌱 I’m currently learning **Go, AWS & DevOps tools** 
 - 💬 Ask me about: Linux, Programming, Docker, Git, Go
-- 🌐 Website: [blog.nimendra.xyz](https://blog.nimendra.xyz/)
+- 🌐 Website: [nimendra.xyz](https://blog.nimendra.xyz/)
 - 📫 How to reach me: nimendraonline@gmail.com
 
 ---
@@ -55,6 +55,9 @@ Tech Enthusiast & Software Engineering Undergraduate!
     <a href="https://github.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/github" /></a>
     <a href="https://vitejs.dev/"><img height="32" width="32" src="https://cdn.simpleicons.org/vite" /></a>
     <a href="https://gohugo.io/"><img height="32" width="32" src="https://cdn.simpleicons.org/hugo" /></a>
+    <a href="https://kubernetes.io/"><img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes" /></a>
+    <a href="https://ansible.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/ansible" /></a>
+    <a href="https://terraform.io/"><img height="32" width="32" src="https://cdn.simpleicons.org/terraform" /></a>
 </div>
 
 ---
