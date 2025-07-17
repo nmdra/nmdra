@@ -1,21 +1,16 @@
 <h2 align="center">
     Hi There :wave:, I'm NIMENDRA.
 </h2>
-<h4 align="center">
-Tech Enthusiast & Software Engineering Undergraduate!
-</h4>
 
 ---
 
 - 🌱 I’m currently learning **Go, System Design & DevOps** 
 - 💬 Ask me about: Linux, Programming, Docker, Git, Go
-- 🌐 Website: [nimendra.xyz](https://blog.nimendra.xyz/)
+- 🌐 Website/Blog: [nimendra.xyz](https://blog.nimendra.xyz/)
 - 📫 How to reach me: nimendraonline@gmail.com
-
 ---
-- <img height="16" width="16" src="https://cdn.simpleicons.org/blogger" /> My Blog: [blog.nimendra.xyz](https://blog.nimendra.xyz/blog)
-- <img height="16" width="16" src="https://cdn.simpleicons.org/x" /> Twitter: [@nimendra_](https://twitter.com/nimendra_)
 - <img height="16" width="16" src="https://cdn.simpleicons.org/linkedin" /> LinkedIn: [in/nimendra](https://www.linkedin.com/in/nimendra/)
+- <img height="16" width="16" src="https://cdn.simpleicons.org/x" /> Twitter: [@nimendra_](https://twitter.com/nimendra_)
 ---
 
 <div align="center">
