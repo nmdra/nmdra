@@ -3,7 +3,7 @@
 </h2>
 
 - 🌱 I’m currently learning **Go, System Design & DevOps** 
-- 💬 Ask me about: Linux, Programming, Docker, Git, Go
+- 💬 Ask me about: Linux, Programming, Kubernetes, SRE, PE, Go
 - 🌐 Website/Blog: [nimendra.xyz](https://blog.nimendra.xyz/)
 - 📫 How to reach me: nimendraonline@gmail.com
 - 💼 LinkedIn: [in/nimendra](https://www.linkedin.com/in/nimendra/)
