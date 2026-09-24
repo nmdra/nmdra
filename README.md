@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **System Design, DevOps and Inference Engineering** 
 - 💬 Ask me about: Linux, Programming, Kubernetes, SRE, PE, Go
-- 🌐 Website/Blog: [nimendra.xyz](https://blog.nimendra.xyz/)
+- 🌐 Website/Blog: [nimendra.online](https://blog.nimendra.online/)
 - 📫 How to reach me: nimendraonline@gmail.com
 - 💼 LinkedIn: [in/nimendra](https://www.linkedin.com/in/nimendra/)
 - 🐦 Twitter: [@nimendra_](https://twitter.com/nimendra_)
