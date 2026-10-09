@@ -2,7 +2,7 @@
     Hi There :wave:, I'm NIMENDRA.
 </h2>
 
-- 🌱 I’m currently learning **System Design, DevOps and Inference Engineering** 
+- 🌱 I’m currently learning **System Design, DevOps** 
 - 💬 Ask me about: Linux, Programming, Kubernetes, SRE, PE, Go
 - 🌐 Website/Blog: [nimendra.online](https://blog.nimendra.online/)
 - 📫 How to reach me: nimendraonline@gmail.com
