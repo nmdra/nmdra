@@ -8,6 +8,7 @@
 - 📫 How to reach me: nimendraonline@gmail.com
 - 💼 LinkedIn: [in/nimendra](https://www.linkedin.com/in/nimendra/)
 - 🐦 Twitter: [@nimendra_](https://twitter.com/nimendra_)
+- 🤗 Huggingface: [nimendraai](https://huggingface.co/nimendraai)
 
 <!-- <div align="center">
     <a href="https://www.linux.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/linux" /></a>
